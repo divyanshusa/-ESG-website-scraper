@@ -1,0 +1,14 @@
+playwright
+beautifulsoup4
+google-generativeai
+python-dotenv
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pypdf
+requests
+fastapi
+uvicorn
+rich
+pydantic-settings
+playwright-stealth
